@@ -1,4 +1,4 @@
-import { sortCharacters } from '../sortCharacters';
+import sortCharacters from '../sortCharacters.js';
 
 const characters = [
   { name: 'мечник', health: 10 },

@@ -2,7 +2,7 @@
   "name": "unit-testing-matchers",
   "version": "1.0.0",
   "description": "Sorting characters",
-  "main": "src/index.js",
+  "main": "src/sortCharacters.js",
   "scripts": {
     "test": "jest --coverage",
     "test:watch": "jest --watch",

@@ -1,3 +1,3 @@
-export function sortCharacters(characters) {
+export default function sortCharacters(characters) {
   return [...characters].sort((a, b) => b.health - a.health);
 }
